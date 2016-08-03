@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+body,input,select,button,textarea{font-size:14px;font-family:"微软雅黑";color:#333;}
+ul,ol{list-style:none;}
+img,a img{border:0 none;}
+a{text-decoration:none;color:#666;}
+a:hover{text-decoration:underline;color:#fe6700;}
+.clearfix:after{clear:both;content:"";display:block;visibility:hidden;height:0;}
+.clearov{overflow:hidden;zoom:1;}
+em,i{font-style:normal;}
+.clearit{ clear:both;}
+button{cursor:pointer;}
+
+
+a{ text-decoration: none;}
+a.close{display:none;}
+a img{border:0 none;}
+img{vertical-align:middle;/*background:url("../images/loading.gif") no-repeat center center;*/}
+i,em{font-style:normal;}
+i.keyword{font-style:normal;color:#aa2105;}
+.hidden{overflow-x:hidden;}
+.border_none{border: 0 none;}
+.clear{clear:both;font-size:0;overflow:hidden;height:0;line-height:0;}
+.clearfix:after{clear:both;content:"";display:block;visibility:hidden;height:0;}
+ul,ol{list-style:none;}
+.dis_none{display:none;}
+.dis_block{display:block;}
+.color_999{color:#999;}
+.left{float:left;}
+.right{float:right;}
+.disable{cursor:default;opacity:0.3;}
+.clear_v1:after{clear:both;content:".";display:block;height:0;visibility:hidden;}
+.checkbox,.radio{vertical-align:middle;margin-top:-2px;}
+.z_9999{z-index:9999;}
+p.word{color:#f90;}
